@@ -17,3 +17,6 @@ ADVANTAGES :
 2)More convenient than timers and sensors.
 
 3)Low cost.
+
+
+![image](https://user-images.githubusercontent.com/43961823/115282668-1707f400-a168-11eb-8ad4-62189da472a5.png)
