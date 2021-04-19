@@ -11,7 +11,7 @@ Hardware/Software components required: USB based web camera , Python software co
 
 ADVANTAGES :  
 
-1) Wastage of time by lighting green signal even when road is empty can be avoided.
+1)Wastage of time by lighting green signal even when road is empty can be avoided.
 
 2)More convenient than timers and sensors.
 
