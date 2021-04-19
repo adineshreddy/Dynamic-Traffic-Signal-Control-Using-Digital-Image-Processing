@@ -1,4 +1,5 @@
-# Dynamic-Traffic-Signal-Control-Using-Digital-Image-Processing
+# Dynamic Traffic Signal Control using Digital Image Processing
+
 
 Problem Statement:  In contrast with the past, we are experiencing a lot of traffic in our metropolitan cities. At that point it becomes very difficult for us to wait in heavy traffic. Our team has come up with a solution which can resolve this problem.
 
